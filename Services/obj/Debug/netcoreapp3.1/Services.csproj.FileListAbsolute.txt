@@ -1,0 +1,15 @@
+C:\Users\saheed.alabi\source\repos\COUREASSESSMENT\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+C:\Users\saheed.alabi\source\repos\COUREASSESSMENT\Services\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\saheed.alabi\source\repos\COUREASSESSMENT\Services\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\saheed.alabi\source\repos\COUREASSESSMENT\Services\obj\Debug\netcoreapp3.1\Services.csproj.AssemblyReference.cache
+C:\Users\saheed.alabi\source\repos\COUREASSESSMENT\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\Users\saheed.alabi\source\repos\COUREASSESSMENT\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+C:\Users\saheed.alabi\source\repos\COUREASSESSMENT\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\saheed.alabi\source\repos\COUREASSESSMENT\Services\obj\Debug\netcoreapp3.1\Services.dll
+C:\Users\saheed.alabi\source\repos\COUREASSESSMENT\Services\obj\Debug\netcoreapp3.1\Services.pdb
+C:\Users\saheed.alabi\source\repos\COUREASSESSMENT\Services\bin\Debug\netcoreapp3.1\Services.runtimeconfig.json
+C:\Users\saheed.alabi\source\repos\COUREASSESSMENT\Services\bin\Debug\netcoreapp3.1\Services.runtimeconfig.dev.json
+C:\Users\saheed.alabi\source\repos\COUREASSESSMENT\Services\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\saheed.alabi\source\repos\COUREASSESSMENT\Services\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\saheed.alabi\source\repos\COUREASSESSMENT\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+C:\Users\saheed.alabi\source\repos\COUREASSESSMENT\Services\obj\Debug\netcoreapp3.1\Services.genruntimeconfig.cache
